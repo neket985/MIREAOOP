@@ -14,7 +14,7 @@ public class Dog {
     public double getAge() {
         return age;
     }
-
+//gnjksfhgkldfjgkl
     public void setAge(double age) {
         this.age = age;
     }
