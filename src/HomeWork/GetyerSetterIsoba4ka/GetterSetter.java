@@ -1,8 +1,4 @@
-package com.company.HomeWork.GetyerSetterIsoba4ka;
-
-/**
- * Created by liveuser on 16.09.16.
- */
+package HomeWork.GetyerSetterIsoba4ka;
 public class GetterSetter {
     private int val;
 

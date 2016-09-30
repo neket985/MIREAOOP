@@ -1,8 +1,6 @@
-package com.company.HomeWork.GetyerSetterIsoba4ka;
+package HomeWork.GetyerSetterIsoba4ka;
 
-/**
- * Created by liveuser on 16.09.16.
- */
+
 public class Dog {
 
     private double age;
