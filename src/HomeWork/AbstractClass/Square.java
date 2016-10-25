@@ -1,4 +1,4 @@
-package HomeWork.AbstractClass;
+package homework.AbstractClass;
 
 
  class Square extends Rectangle{

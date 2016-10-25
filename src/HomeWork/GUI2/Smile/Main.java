@@ -1,4 +1,4 @@
-package HomeWork.GUI2.Smile;
+package homework.GUI2.Smile;
 
 
 import javax.swing.*;

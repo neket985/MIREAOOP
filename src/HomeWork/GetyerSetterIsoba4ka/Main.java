@@ -1,4 +1,4 @@
-package HomeWork.GetyerSetterIsoba4ka;
+package homework.GetyerSetterIsoba4ka;
 
 public class Main {
 

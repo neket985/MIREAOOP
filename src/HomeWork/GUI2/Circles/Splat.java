@@ -1,4 +1,4 @@
-package HomeWork.GUI2.Circles;
+package homework.GUI2.Circles;
 
 import javax.swing.*;
 

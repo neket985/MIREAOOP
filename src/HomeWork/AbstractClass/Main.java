@@ -1,4 +1,4 @@
-package HomeWork.AbstractClass;
+package homework.AbstractClass;
 
 /**
  * Created by liveuser on 14.10.16.

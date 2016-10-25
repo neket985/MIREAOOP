@@ -1,6 +1,4 @@
-package HomeWork.AbstractClass;
-
-import java.awt.*;
+package homework.AbstractClass;
 
 public abstract class Shape {
     protected String color;

@@ -1,6 +1,6 @@
-package HomeWork.GUI;
-import java.awt.*;
+package homework.GUI;
 import javax.swing.*;
+import java.awt.*;
 
 public class Main
 {

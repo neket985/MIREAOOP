@@ -1,4 +1,4 @@
-package HomeWork.GUI;
+package homework.GUI;
 
 import javax.swing.*;
 import java.awt.*;
