@@ -1,4 +1,4 @@
-package Labs.Lab3;
+package labs.Lab3;
 import javax.swing.JPanel;
 import java.awt.*;
 
