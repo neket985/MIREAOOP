@@ -1,4 +1,4 @@
-package homework.GUI2.Smile;
+package Labs.Lab3;
 
 
 import javax.swing.*;

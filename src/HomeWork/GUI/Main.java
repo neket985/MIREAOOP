@@ -9,7 +9,7 @@ public class Main
         JFrame frame = new JFrame("Label Demo");
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
-        ImageIcon icon = new ImageIcon("/home/liveuser/IdeaProjects/OOP_MIREA/src/HomeWork/GUI/Cat2.jpeg");
+        ImageIcon icon = new ImageIcon("/home/liveuser/IdeaProjects/OOP_MIREA/src/HomeWork/GUI/Cat.jpeg");
 
         JLabel label1, label2, label3,label4;
         // Set up first subpanel
