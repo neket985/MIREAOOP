@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Created by nikitos on 23.10.16.
+ * Created by nikitos on 23.10.16
  */
 public class number2 {
     static JButton bt1 = new JButton("Red");
