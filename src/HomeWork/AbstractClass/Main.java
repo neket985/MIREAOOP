@@ -1,7 +1,7 @@
 package homework.AbstractClass;
 
 /**
- * Created by liveuser on 14.10.16.
+ * Created by nikitos on 14.10.16.
  */
 public class Main {
     public static void main(String[] args) {
